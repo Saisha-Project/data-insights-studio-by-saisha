@@ -49,8 +49,9 @@ const Index = () => {
         </div>
 
         {/* Footer */}
-        <footer className="text-center py-8 text-sm text-muted-foreground border-t">
+        <footer className="text-center py-8 text-sm text-muted-foreground border-t space-y-2">
           <p>All data processing happens client-side. Your data never leaves your device.</p>
+          <p>© All rights reserved @project.saisha</p>
         </footer>
       </div>
     </div>
