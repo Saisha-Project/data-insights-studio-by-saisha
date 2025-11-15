@@ -11,17 +11,6 @@
 - **Interactive Dashboard**: Generates charts, graphs, and visual insights.
 - **Analytical Report**: Creates a summary report with key findings and metrics.
 - **User-Friendly UI**: Clean interface built with modern web technologies.
-
----
-
-## 🔧 Tech Stack
-
-- **Frontend**: React + TypeScript + Vite  
-- **Styling**: Tailwind CSS  
-- **Components**: shadcn-ui  
-- **Data Processing**: (Add libraries you use, e.g., Papaparse, XLSX, PDF parsing library)  
-- **State Management**: (Add if using Zustand / Redux / Context API)
-
 ---
 ## 📁 Folder Structure
 /
@@ -37,7 +26,4 @@
 ├── tailwind.config.ts
 ├── tsconfig.json
 └── README.md
-
-
-## 📁 Folder Structure
 
